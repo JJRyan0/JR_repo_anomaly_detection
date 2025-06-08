@@ -17,3 +17,8 @@
   text = pytesseract.image_to_string(image)
 
   ```
+Copyright (c) 2025 John Ryan - 10 May 2025
+
+All rights reserved.
+
+This software may not be copied, modified, distributed, or used in any way without express written permission from the author.
